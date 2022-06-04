@@ -7,3 +7,6 @@ requests==2.25.1
 telegram==0.0.1
 virtualenv==20.8.0
 virtualenvwrapper-win==1.2.6
+lxml==4.8.0
+python-telegram-bot
+pytelegrambotapi
